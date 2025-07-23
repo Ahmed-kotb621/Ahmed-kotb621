@@ -20,7 +20,7 @@
 <br/>
 
 # 🦸‍♂️ About me
-* 💪 Front End Developer [@Mesallah](https://www.mesallah.com/)
+* 💪 Front End Developer [@Easy Orders](https://www.easy-orders.net/)
 * 🚀 I'm focusing on improving my **React.js** skills by building real-world projects, mastering performance optimization, and exploring advanced topics.
 * 🎯 I'm currently deepening my knowledge in **Frontend Architecture** and **Web Performance Optimization**
 
